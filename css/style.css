@@ -39,12 +39,12 @@ form{
 }
 
 .wrapper .submit_btn{
-    padding: 15px;
+    padding:10px 15px;
     font-weight: 500;
 }
 .wrapper .login_with{
-    padding: 15px;
-    font-size: 15px;
+    padding: 8px 15px;
+    font-size: 13px;
     font-weight: 500;
     transition: 0.3s ease-in-out;
 }
@@ -57,5 +57,5 @@ form{
     border-color: var(--gray-1);
 }
 .wrapper .login_with img{
-    max-width: 8%;
+    max-width: 7%;
 }
